@@ -1,7 +1,4 @@
 # Cloud_Training_Session_2
-This session was all about  google cloud platform  services with some glimpse of  backend development.
-
-# Cloud_Training_Session_1
 
 ## Introduction to Google Cloud Platform (GCP) 
 Understand the fundamentals of GCP and its key services.
